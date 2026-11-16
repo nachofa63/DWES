@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: es.dwes.ut03.DaoFactoryTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.039 s -- in es.dwes.ut03.DaoFactoryTest
