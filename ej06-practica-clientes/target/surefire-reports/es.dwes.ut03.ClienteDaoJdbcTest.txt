@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: es.dwes.ut03.ClienteDaoJdbcTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.655 s -- in es.dwes.ut03.ClienteDaoJdbcTest

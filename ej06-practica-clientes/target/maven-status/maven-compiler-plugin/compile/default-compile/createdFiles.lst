@@ -1,0 +1,11 @@
+es\dwes\ut03\Cliente.class
+es\dwes\ut03\ClienteDto.class
+es\dwes\ut03\App.class
+es\dwes\ut03\ClienteDaoJdbc.class
+es\dwes\ut03\DaoFactory.class
+es\dwes\ut03\ClienteDao.class
+es\dwes\ut03\ClienteMapper.class
+es\dwes\ut03\ClienteService.class
+es\dwes\ut03\ClienteDaoMemoria.class
+es\dwes\ut03\AccesoDatosException.class
+es\dwes\ut03\ReglaDeNegocioException.class
